@@ -6,8 +6,8 @@ Rectangle::Rectangle(){
 }
 
 Rectangle::Rectangle(int w, int h){
-        this->width = w;
-	this->height = h;
+        this->width = h;//change
+	this->height = w;//change
 }
 
 int Rectangle::area(){
