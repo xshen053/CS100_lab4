@@ -1,4 +1,4 @@
-#include "..header/rectangle.hpp"
+#include "../header/rectangle.hpp"
 
 void Rectangle::Rectangle(){
         this->width = 1;
